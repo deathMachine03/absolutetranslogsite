@@ -1,0 +1,10 @@
+.icon{
+    position: relative;
+    display: inline-block;
+    width: 200px;
+    height: 36px;
+
+    &_train{
+        background-image:url(./train1.svg);
+    }
+}
